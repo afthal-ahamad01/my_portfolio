@@ -562,3 +562,7 @@ img {
 .home__title {
   font-size: 50px;
 }
+
+.footer__copy a {
+  color: white;
+}
